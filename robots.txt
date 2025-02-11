@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mruass.csgad.com/Gbr/sitemap.xml.gz
